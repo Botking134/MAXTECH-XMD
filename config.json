@@ -1,14 +1,14 @@
 {
   "users": {
     "0": {},
-    "237689360833": {
+    "2347040401291": {
       "sudoList": [],
       "tagAudioPath": "tag.mp3",
       "antilink": false,
       "response": true,
       "autoreact": false,
-      "prefix": ".",
-      "reaction": "🌹",
+      "prefix": "!",
+      "reaction": "👁",
       "welcome": false,
       "record": false,
       "type": false
